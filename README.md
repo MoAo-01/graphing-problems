@@ -1,9 +1,9 @@
-# graphing-problems
-some problems from some online open judges
+## graphing-problems
+Some problems from some online open judges.
 
-Collecting some valuable problems to prepare for JSCPC
+Collecting some valuable problems to prepare for JSCPC.
 
-Tags:
+## Tags:
 - floyd
 - tarjan
 - topsort
