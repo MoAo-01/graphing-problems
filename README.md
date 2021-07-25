@@ -10,3 +10,4 @@ Collecting some valuable problems to prepare for JSCPC.
 - spfa
 - dijkska
 - bfs
+- dfs
