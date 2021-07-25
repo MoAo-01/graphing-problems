@@ -12,10 +12,8 @@
 - 输出：`[1,2,3,4,8,12,11,10,9,5,6,7]` 
 
 限制：
-
-`0 <= matrix.length <= 100`
-
-`0 <= matrix[i].length <= 100`
+- `0 <= matrix.length <= 100`
+- `0 <= matrix[i].length <= 100`
 
 ## 解题思路
 
